@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1f9fV8siQEhDz5MVJY__bVd09Ten4X4tB
 """
 
+
 from PIL import Image
 import string
 import numpy as np
